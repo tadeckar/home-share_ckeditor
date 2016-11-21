@@ -1,0 +1,19 @@
+{
+  "name": "home-share_ckeditor",
+  "version": "1.0.0",
+  "description": "custom ckeditor for home-share",
+  "main": "build-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadeckar/home-share_ckeditor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadeckar/home-share_ckeditor/issues"
+  },
+  "homepage": "https://github.com/tadeckar/home-share_ckeditor#readme"
+}
