@@ -13,10 +13,10 @@
  * (1) http://ckeditor.com/builder
  *     Visit online builder to build CKEditor from scratch.
  *
- * (2) http://ckeditor.com/builder/d98ec7081f25a8646ca48b2e3d2cc72e
+ * (2) http://ckeditor.com/builder/adcd56b99b550ec42f348a1b5524d507
  *     Visit online builder to build CKEditor, starting with the same setup as before.
  *
- * (3) http://ckeditor.com/builder/download/d98ec7081f25a8646ca48b2e3d2cc72e
+ * (3) http://ckeditor.com/builder/download/adcd56b99b550ec42f348a1b5524d507
  *     Straight download link to the latest version of CKEditor (Optimized) with the same setup as before.
  *
  * NOTE:
@@ -57,6 +57,7 @@ var CKBUILDER_CONFIG = {
 		'colordialog' : 1,
 		'contextmenu' : 1,
 		'copyformatting' : 1,
+		'dialogadvtab' : 1,
 		'div' : 1,
 		'elementspath' : 1,
 		'enterkey' : 1,
@@ -68,18 +69,26 @@ var CKBUILDER_CONFIG = {
 		'format' : 1,
 		'horizontalrule' : 1,
 		'htmlwriter' : 1,
+		'iframe' : 1,
 		'image' : 1,
+		'imageuploader' : 1,
 		'indentblock' : 1,
 		'indentlist' : 1,
 		'justify' : 1,
+		'language' : 1,
 		'link' : 1,
 		'list' : 1,
 		'liststyle' : 1,
 		'magicline' : 1,
 		'maximize' : 1,
+		'newpage' : 1,
 		'pagebreak' : 1,
+		'preview' : 1,
+		'print' : 1,
 		'removeformat' : 1,
 		'resize' : 1,
+		'save' : 1,
+		'selectall' : 1,
 		'showblocks' : 1,
 		'showborders' : 1,
 		'smiley' : 1,
@@ -91,7 +100,9 @@ var CKBUILDER_CONFIG = {
 		'tabletools' : 1,
 		'templates' : 1,
 		'toolbar' : 1,
-		'undo' : 1
+		'undo' : 1,
+		'uploadfile' : 1,
+		'wysiwygarea' : 1
 	},
 	languages : {
 		'en' : 1
