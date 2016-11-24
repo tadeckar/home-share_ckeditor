@@ -114,6 +114,9 @@ CKEDITOR.stylesSet.add( 'default', [
 
 	{ name: 'Clean Image', type: 'widget', widget: 'image', attributes: { 'class': 'image-clean' } },
 	{ name: 'Grayscale Image', type: 'widget', widget: 'image', attributes: { 'class': 'image-grayscale' } },
+	{ name: 'Image Margin', type: 'widget', widget: 'image', attributes: { 'class': 'base-margin' } },
+    { name: 'Image Margin Right', type: 'widget', widget: 'image', attributes: { 'class': 'base-margin-right' } },
+	{ name: 'Image Margin Left', type: 'widget', widget: 'image', attributes: { 'class': 'base-margin-left' } },
 
 	{ name: 'Featured Snippet', type: 'widget', widget: 'codeSnippet', attributes: { 'class': 'code-featured' } },
 
@@ -134,4 +137,3 @@ CKEDITOR.stylesSet.add( 'default', [
 	{ name: '1080p ', type: 'widget', widget: 'embed', attributes: { 'class': 'embed-1080p' } }
 
 ] );
-

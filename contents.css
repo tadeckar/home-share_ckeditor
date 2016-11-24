@@ -206,3 +206,15 @@ a > img {
 	max-height: 1080px;
 	margin:0 auto;
 }
+
+.base-margin-right {
+    margin-right: 21px;
+}
+
+.base-margin-left {
+    margin-left: 21px;
+}
+
+.base-margin {
+	margin: 21px;
+}
